@@ -34,7 +34,7 @@ target | Which line displays the author. Value is 'n' from last | '2'
 
 ##### Result
 
-![](readme_files/output.png)
+![](readme_files/Output.png)
 
 ## Changelog
 #### Version 1.0 - Initial release
